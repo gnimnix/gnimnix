@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-Just a programming enthusiast looking to build great things. Ask me about any full stack development issue.
-
-Lost half my contributions history 😭 because of skill issue.
-
-<img src="https://myreadme.vercel.app/api/embed/gnimnix?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 <!--
 **gnimnix/gnimnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" />
+Just a programming enthusiast looking to build great things. Ask me about any full stack development issue.
+
+<img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" /><img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/languages.svg" />
 
 ---
 
