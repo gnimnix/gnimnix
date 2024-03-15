@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Just a programming enthusiast looking to build great things. Ask me about any full stack development issue.
+
+Lost half my contributions history 😭 because of skill issue.
+
+<img src="https://myreadme.vercel.app/api/embed/gnimnix?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <!--
 **gnimnix/gnimnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnimnix&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=58f04d&icon_color=58f04d&text_color=ffffff&bg_color=0,000000,130F40" alt="my Github Stats"/>
+No Java!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gnimnix&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=gnimnix&theme=juicyfresh&no-bg=true" />
+
+My Professional Experience
+
+<a href="https://www.linkedin.com/in/xmluu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://komarev.com/ghpvc/?username=gnimnix&color=brightgreen" alt="watching_count" />
+
