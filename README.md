@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Just a programming enthusiast looking to build great things. Ask me about anything fullstack.
 
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -90,11 +92,6 @@ Vim Script               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ---
 
-My Professional Experience
-
-<a href="https://www.linkedin.com/in/xmluu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
----
 
 ### :zap: Recent Activity
 
@@ -109,3 +106,9 @@ My Professional Experience
 ---
 
 <img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" /><img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/languages.svg" />
+
+---
+
+My Professional Experience
+
+<a href="https://www.linkedin.com/in/xmluu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
