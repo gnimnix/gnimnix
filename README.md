@@ -98,12 +98,6 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gnimnix/gnimnix/main/assets/bar_graph.png)
-
-
  Last Updated on 15/03/2024 07:53:09 UTC
 <!--END_SECTION:waka-->
 ---
