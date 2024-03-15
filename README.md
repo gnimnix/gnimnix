@@ -17,21 +17,6 @@ Here are some ideas to get you started:
 
 Just a programming enthusiast looking to build great things. Ask me about anything fullstack.
 
-<img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" /><img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/languages.svg" />
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997413707) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-2. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997384175) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. ❌ Reopened PR [#28](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/28) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 💪 Opened PR [#34](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/34) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 🗣 Commented on [#161](https://github.com/nus-cs2030/2324-s2/issues/161#issuecomment-1975014547) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-<!--END_SECTION:activity-->
-
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -109,3 +94,18 @@ My Professional Experience
 
 <a href="https://www.linkedin.com/in/xmluu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997413707) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997384175) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. ❌ Reopened PR [#28](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/28) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 💪 Opened PR [#34](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/34) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🗣 Commented on [#161](https://github.com/nus-cs2030/2324-s2/issues/161#issuecomment-1975014547) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+<!--END_SECTION:activity-->
+
+---
+
+<img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" /><img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/languages.svg" />
