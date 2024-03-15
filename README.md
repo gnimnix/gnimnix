@@ -27,6 +27,16 @@ No Java!
 
 <img src="https://github-profile-trophy.vercel.app/?username=gnimnix&theme=juicyfresh&no-bg=true" />
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 My Professional Experience
 
 <a href="https://www.linkedin.com/in/xmluu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
