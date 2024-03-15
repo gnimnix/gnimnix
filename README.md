@@ -41,6 +41,11 @@ No Java!
 
 ---
 
+---
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+---
+
 My Professional Experience
 
 <a href="https://www.linkedin.com/in/xmluu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
