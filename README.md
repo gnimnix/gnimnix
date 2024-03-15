@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-No Java!
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gnimnix&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=gnimnix&theme=juicyfresh&no-bg=true" />
+<img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" />
 
 ---
 
