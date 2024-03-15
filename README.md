@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just a programming enthusiast looking to build great things. Ask me about any full stack development issue.
+Just a programming enthusiast looking to build great things. Ask me about anything fullstack.
 
 <img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" /><img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/languages.svg" />
 
