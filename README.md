@@ -97,11 +97,11 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997413707) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-2. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997384175) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. ❌ Reopened PR [#28](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/28) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 💪 Opened PR [#34](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/34) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 🗣 Commented on [#161](https://github.com/nus-cs2030/2324-s2/issues/161#issuecomment-1975014547) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+1. 💪 Opened PR [#37](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/37) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. ❌ Closed PR [#27](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/27) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. 🎉 Merged PR [#28](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/28) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997413707) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-1997384175) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
 <!--END_SECTION:activity-->
 
 ---
