@@ -77,16 +77,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
-TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
 
 
 <!--END_SECTION:waka-->
