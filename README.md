@@ -89,11 +89,11 @@ Windows                  6 hrs 31 mins       ███████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#245](https://github.com/nus-cs2030/2324-s2/issues/245#issuecomment-2005586721) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-2. 🎉 Merged PR [#39](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/39) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. 💪 Opened PR [#39](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/39) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 🎉 Merged PR [#38](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/38) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 💪 Opened PR [#38](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/38) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+1. 🗣 Commented on [#251](https://github.com/nus-cs2030/2324-s2/issues/251#issuecomment-2006169428) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+2. ❗ Opened issue [#252](https://github.com/nus-cs2030/2324-s2/issues/252) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+3. 🗣 Commented on [#245](https://github.com/nus-cs2030/2324-s2/issues/245#issuecomment-2005586721) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+4. 🎉 Merged PR [#39](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/39) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 💪 Opened PR [#39](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/39) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
 <!--END_SECTION:activity-->
 
 ---
