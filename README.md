@@ -98,11 +98,11 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/nus-cs2030/2324-s2/issues/251#issuecomment-2006169428) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-2. ❗ Opened issue [#252](https://github.com/nus-cs2030/2324-s2/issues/252) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-3. 🗣 Commented on [#245](https://github.com/nus-cs2030/2324-s2/issues/245#issuecomment-2005586721) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-4. 🎉 Merged PR [#39](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/39) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 💪 Opened PR [#39](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/39) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+1. 🎉 Merged PR [#40](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/40) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. 💪 Opened PR [#40](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/40) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. 🎉 Merged PR [#18](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/18) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 🗣 Commented on [#30](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/30#issuecomment-2006769546) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🎉 Merged PR [#31](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/31) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
 <!--END_SECTION:activity-->
 
 ---
