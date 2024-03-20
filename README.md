@@ -19,6 +19,19 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 ---
 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#35](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/35) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. 🎉 Merged PR [#40](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/40) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. 💪 Opened PR [#40](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/40) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 🎉 Merged PR [#18](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/18) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🗣 Commented on [#30](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/30#issuecomment-2006769546) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+<!--END_SECTION:activity-->
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2031%20mins-blue)
 
@@ -79,39 +92,15 @@ PA1                      0 secs              ░░░░░░░░░░░�
 Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
-TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
 
 
 
 <!--END_SECTION:waka-->
----
-
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/35) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-2. 🎉 Merged PR [#40](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/40) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. 💪 Opened PR [#40](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/40) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 🎉 Merged PR [#18](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/18) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 🗣 Commented on [#30](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/30#issuecomment-2006769546) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-<!--END_SECTION:activity-->
 
 ---
 
 <img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/overview.svg" /><img src="https://github.com/gnimnix/github-stats-transparent/blob/output/generated/languages.svg" />
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gnimnix)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
