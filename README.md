@@ -23,11 +23,11 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#343](https://github.com/nus-cs2030/2324-s2/issues/343#issuecomment-2017735249) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-2. 🗣 Commented on [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26#issuecomment-2015327157) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. 🗣 Commented on [#252](https://github.com/nus-cs2030/2324-s2/issues/252#issuecomment-2011348644) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-4. 🗣 Commented on [#260](https://github.com/nus-cs2030/2324-s2/issues/260#issuecomment-2008832556) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-5. 🎉 Merged PR [#35](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/35) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+1. 🗣 Commented on [#43](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/43#issuecomment-2018467488) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. 🗣 Commented on [#36](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/36#issuecomment-2018465062) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. 🗣 Commented on [#33](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/33#issuecomment-2018462719) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 🗣 Commented on [#30](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/30#issuecomment-2018460137) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🗣 Commented on [#343](https://github.com/nus-cs2030/2324-s2/issues/343#issuecomment-2017735249) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
 <!--END_SECTION:activity-->
 
 ---
