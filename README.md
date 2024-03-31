@@ -23,11 +23,11 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/43#issuecomment-2018467488) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-2. 🗣 Commented on [#36](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/36#issuecomment-2018465062) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. 🗣 Commented on [#33](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/33#issuecomment-2018462719) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 🗣 Commented on [#30](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/30#issuecomment-2018460137) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 🗣 Commented on [#343](https://github.com/nus-cs2030/2324-s2/issues/343#issuecomment-2017735249) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+1. 💪 Opened PR [#44](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/44) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. 🎉 Merged PR [#30](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/30) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. 🗣 Commented on [#43](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/43#issuecomment-2018467488) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 🗣 Commented on [#36](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/36#issuecomment-2018465062) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🗣 Commented on [#33](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/33#issuecomment-2018462719) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
 <!--END_SECTION:activity-->
 
 ---
