@@ -33,7 +33,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,6 +42,8 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 **🐱 My GitHub Data** 
 
 > 📦 4.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 233 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -76,15 +78,15 @@ Sunday                   58 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PA2                      2 hrs 33 mins       ████████████████████░░░░░   78.84 % 
-ug2                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+PA2                      3 hrs 49 mins       ███████████████████████░░   92.28 % 
+ug2                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 💻 Operating System: 
-Mac                      2 hrs 31 mins       ████████████████████░░░░░   78.08 % 
-Windows                  42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Mac                      3 hrs 48 mins       ███████████████████████░░   91.69 % 
+Windows                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 ```
 
 
