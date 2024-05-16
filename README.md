@@ -33,9 +33,9 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-301.1%20thousand%20lines%20of%20code-blue)
 
@@ -81,8 +81,8 @@ Sunday                   58 commits          █░░░░░░░░░░�
 WebStorm                 5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-room-reg                 4 mins              █████████████████████░░░░   82.81 % 
-Atlas_3_Frontend         0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+room-reg                 4 mins              █████████████████████░░░░   84.26 % 
+Atlas_3_Frontend         0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 
 💻 Operating System: 
 Windows                  5 mins              █████████████████████████   100.00 % 
