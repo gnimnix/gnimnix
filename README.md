@@ -23,11 +23,11 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#806](https://github.com/nus-cs2030/2324-s2/issues/806) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-2. 🗣 Commented on [#751](https://github.com/nus-cs2030/2324-s2/issues/751#issuecomment-2076749017) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-3. 🗣 Commented on [#738](https://github.com/nus-cs2030/2324-s2/issues/738#issuecomment-2076505777) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-4. 🗣 Commented on [#740](https://github.com/nus-cs2030/2324-s2/issues/740#issuecomment-2076493274) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
-5. 🗣 Commented on [#747](https://github.com/nus-cs2030/2324-s2/issues/747#issuecomment-2076487659) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+1. 🎉 Merged PR [#26](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/26) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. 🎉 Merged PR [#33](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/33) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. ❗ Opened issue [#806](https://github.com/nus-cs2030/2324-s2/issues/806) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+4. 🗣 Commented on [#751](https://github.com/nus-cs2030/2324-s2/issues/751#issuecomment-2076749017) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
+5. 🗣 Commented on [#738](https://github.com/nus-cs2030/2324-s2/issues/738#issuecomment-2076505777) in [nus-cs2030/2324-s2](https://github.com/nus-cs2030/2324-s2)
 <!--END_SECTION:activity-->
 
 ---
