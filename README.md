@@ -33,7 +33,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -42,8 +42,6 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 **🐱 My GitHub Data** 
 
 > 📦 4.3 kB Used in GitHub's Storage 
- > 
-> 🏆 235 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -82,7 +80,7 @@ WebStorm                 2 hrs 10 mins       ███████████�
 
 🐱‍💻 Projects: 
 Atlas_3_Frontend         1 hr 59 mins        ███████████████████████░░   91.50 % 
-room-reg                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+room-reg                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 Atlas_2                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
