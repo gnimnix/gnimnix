@@ -23,11 +23,11 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/24) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-2. 🎉 Merged PR [#45](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/45) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. 💪 Opened PR [#45](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/45) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 🎉 Merged PR [#43](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/43) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 🎉 Merged PR [#36](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/36) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+1. 💪 Opened PR [#46](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/46) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+2. 🎉 Merged PR [#24](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/24) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+3. 🎉 Merged PR [#45](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/45) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 💪 Opened PR [#45](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/45) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🎉 Merged PR [#43](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/43) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
 <!--END_SECTION:activity-->
 
 ---
