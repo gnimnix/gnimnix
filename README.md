@@ -33,7 +33,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -78,14 +78,14 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-WebStorm                 2 hrs 55 mins       █████████████████████████   100.00 % 
+WebStorm                 5 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Atlas_3_Frontend         2 hrs 53 mins       █████████████████████████   98.49 % 
-Atlas_2                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Atlas_3_Frontend         5 hrs 42 mins       █████████████████████████   99.23 % 
+Atlas_2                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
