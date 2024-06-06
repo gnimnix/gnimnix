@@ -23,11 +23,11 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#47](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/issues/47) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-2. 🎉 Merged PR [#44](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/44) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-3. 🎉 Merged PR [#46](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/46) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 💪 Opened PR [#46](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/46) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-5. 🎉 Merged PR [#24](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/24) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+1. 🗣 Commented on [#809](https://github.com/rhdevs/rhapp/issues/809#issuecomment-2151835614) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
+2. ❗ Opened issue [#809](https://github.com/rhdevs/rhapp/issues/809) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
+3. ❗ Opened issue [#47](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/issues/47) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+4. 🎉 Merged PR [#44](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/44) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
+5. 🎉 Merged PR [#46](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/46) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
 <!--END_SECTION:activity-->
 
 ---
