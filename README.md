@@ -33,9 +33,9 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-615.4%20thousand%20lines%20of%20code-blue)
 
@@ -78,17 +78,17 @@ Sunday                   121 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-WebStorm                 5 hrs 45 mins       █████████████████████████   100.00 % 
+WebStorm                 7 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rhoc-supper-bidding      4 hrs 21 mins       ███████████████████░░░░░░   75.76 % 
-rhapp                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Atlas_3_Frontend         10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-room-reg                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+rhoc-supper-bidding      6 hrs 33 mins       █████████████████████░░░░   82.45 % 
+rhapp                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Atlas_3_Frontend         10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+room-reg                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
