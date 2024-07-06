@@ -43,6 +43,8 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 > 📦 4.3 kB Used in GitHub's Storage 
  > 
+> 🏆 289 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -76,13 +78,13 @@ Sunday                   121 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-WebStorm                 54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rhoc-supper-bidding      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
