@@ -23,11 +23,11 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#810](https://github.com/rhdevs/rhapp/pull/810) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
-2. 💪 Opened PR [#810](https://github.com/rhdevs/rhapp/pull/810) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
-3. 💪 Opened PR [#48](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/48) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
-4. 🗣 Commented on [#809](https://github.com/rhdevs/rhapp/issues/809#issuecomment-2151835614) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
-5. ❗ Opened issue [#809](https://github.com/rhdevs/rhapp/issues/809) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
+1. 🎉 Merged PR [#811](https://github.com/rhdevs/rhapp/pull/811) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
+2. 💪 Opened PR [#811](https://github.com/rhdevs/rhapp/pull/811) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
+3. 🎉 Merged PR [#810](https://github.com/rhdevs/rhapp/pull/810) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
+4. 💪 Opened PR [#810](https://github.com/rhdevs/rhapp/pull/810) in [rhdevs/rhapp](https://github.com/rhdevs/rhapp)
+5. 💪 Opened PR [#48](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend/pull/48) in [NUS-Fintech-Society/Atlas_3_Frontend](https://github.com/NUS-Fintech-Society/Atlas_3_Frontend)
 <!--END_SECTION:activity-->
 
 ---
