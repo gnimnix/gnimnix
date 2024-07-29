@@ -43,7 +43,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 > 📦 4.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 292 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
