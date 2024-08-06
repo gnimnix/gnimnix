@@ -33,7 +33,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,7 +83,7 @@ PyCharm                  1 hr 49 mins        █████████░░�
 
 🐱‍💻 Projects: 
 rh_announcer_bot         1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
-RZone                    1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+RZone                    1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
 RZone3.0Backend          50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 rhoc-supper-bidding      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 rhapp                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
