@@ -23,11 +23,11 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/rhdevs/RH-app-2.0/pull/20) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
-2. 🔒 Closed issue [#21](https://github.com/rhdevs/RH-app-2.0/issues/21) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
-3. 🎉 Merged PR [#26](https://github.com/rhdevs/RH-app-2.0/pull/26) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
-4. 🎉 Merged PR [#27](https://github.com/rhdevs/RH-app-2.0/pull/27) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
-5. 🗣 Commented on [#26](https://github.com/rhdevs/RH-app-2.0/pull/26#issuecomment-2543796783) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
+1. 🎉 Merged PR [#29](https://github.com/rhdevs/RH-app-2.0/pull/29) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
+2. 💪 Opened PR [#29](https://github.com/rhdevs/RH-app-2.0/pull/29) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
+3. 🎉 Merged PR [#20](https://github.com/rhdevs/RH-app-2.0/pull/20) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
+4. 🔒 Closed issue [#21](https://github.com/rhdevs/RH-app-2.0/issues/21) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
+5. 🎉 Merged PR [#26](https://github.com/rhdevs/RH-app-2.0/pull/26) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
 <!--END_SECTION:activity-->
 
 ---
