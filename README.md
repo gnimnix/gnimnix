@@ -43,7 +43,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 > 📦 4.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 15 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,17 +78,13 @@ Sunday                   155 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-VS Code                  14 mins             ██████████████████░░░░░░░   73.24 % 
-WebStorm                 5 mins              ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SlidesPlus               12 mins             ███████████████░░░░░░░░░░   61.39 % 
-RH-app-2.0               5 mins              ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-training_1               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             ██████████████████████░░░   88.15 % 
-Mac                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+No Activity Tracked This Week
 ```
 
 
