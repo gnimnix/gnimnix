@@ -33,7 +33,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,7 +43,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 > 📦 4.4 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
+> 🏆 19 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,13 +78,14 @@ Sunday                   135 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nusmods                  1 hr 28 mins        ████████████████████████░   95.45 % 
+RH-app-2.0               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 
