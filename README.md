@@ -35,7 +35,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-663.9%20thousand%20lines%20of%20code-blue)
 
@@ -78,14 +78,14 @@ Sunday                   140 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-WebStorm                 5 mins              █████████████████████████   100.00 % 
+WebStorm                 24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nusmods                  5 mins              ████████████████████████░   95.21 % 
-RH-app-2.0               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+nusmods                  23 mins             █████████████████████████   98.87 % 
+RH-app-2.0               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 
