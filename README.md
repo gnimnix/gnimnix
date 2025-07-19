@@ -43,6 +43,8 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 > 📦 4.4 kB Used in GitHub's Storage 
  > 
+> 🏆 22 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
