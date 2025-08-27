@@ -78,14 +78,13 @@ Sunday                   159 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-irrigation_automation_mvp4 mins              ██████████████████████░░░   88.19 % 
-test-ble                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
