@@ -33,8 +33,6 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-348.4%20thousand%20lines%20of%20code-blue)
@@ -51,42 +49,6 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-🌆 Daytime                231 commits         ███████████░░░░░░░░░░░░░░   44.17 % 
-🌃 Evening                173 commits         ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌙 Night                  94 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Saturday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Sunday                   162 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
