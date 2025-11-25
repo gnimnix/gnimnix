@@ -41,7 +41,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 **🐱 My GitHub Data** 
 
-> 📦 20.2 kB Used in GitHub's Storage 
+> 📦 20.3 kB Used in GitHub's Storage 
  > 
 > 🏆 33 Contributions in the Year 2025
  > 
