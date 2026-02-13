@@ -41,7 +41,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 **🐱 My GitHub Data** 
 
-> 📦 21.9 kB Used in GitHub's Storage 
+> 📦 40.5 kB Used in GitHub's Storage 
  > 
 > 🏆 9 Contributions in the Year 2026
  > 
@@ -78,13 +78,16 @@ Sunday                   166 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             ████████████████████████░   97.29 % 
+Vim                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fwr-system2              21 mins             █████████████████░░░░░░░░   69.82 % 
+_codeql_detected_source_r8 mins              ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 
