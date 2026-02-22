@@ -78,13 +78,13 @@ Sunday                   166 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fwr-system2              54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
