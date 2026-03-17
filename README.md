@@ -35,7 +35,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-379.02%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -78,14 +78,14 @@ Sunday                   171 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cp                       1 hr 14 mins        █████████████████████████   99.38 % 
-fwr-system2              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+cp                       1 hr 36 mins        █████████████████████████   99.53 % 
+fwr-system2              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
