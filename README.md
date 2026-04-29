@@ -23,7 +23,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/gnimnix/ing2030-prototype/pull/1) in [gnimnix/ing2030-prototype](https://github.com/gnimnix/ing2030-prototype)
+1. ❗ Opened issue [#36772](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/36772) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
 2. 💪 Opened PR [#4063](https://github.com/nusmodifications/nusmods/pull/4063) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
 3. 🎉 Merged PR [#20](https://github.com/rhdevs/RH-app-2.0/pull/20) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
 4. 🔒 Closed issue [#21](https://github.com/rhdevs/RH-app-2.0/issues/21) in [rhdevs/RH-app-2.0](https://github.com/rhdevs/RH-app-2.0)
