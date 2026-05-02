@@ -78,13 +78,13 @@ Sunday                   170 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cp                       42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 
