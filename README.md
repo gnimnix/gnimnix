@@ -33,6 +33,8 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-535.71%20thousand%20lines%20of%20code-blue?style=flat)
@@ -41,7 +43,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 > 📦 40.6 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 43 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,6 +51,47 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+🌆 Daytime                231 commits         █████████░░░░░░░░░░░░░░░░   36.44 % 
+🌃 Evening                200 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
+🌙 Night                  178 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Tuesday                  67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Wednesday                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Friday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   170 commits         ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+🔥 Editors: 
+VS Code                  5 hrs 11 mins       ████████████████████████░   95.79 % 
+Unknown Editor           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+
+🐱‍💻 Projects: 
+cp                       5 hrs 8 mins        ████████████████████████░   94.89 % 
+xmlu                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+myriota-hyperpulse       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+nrf                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+myriota                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+💻 Operating System: 
+Mac                      5 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
