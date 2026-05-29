@@ -33,8 +33,6 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2055%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-535.54%20thousand%20lines%20of%20code-blue?style=flat)
@@ -43,7 +41,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 > 📦 40.6 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,42 +49,6 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-🌆 Daytime                231 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌃 Evening                184 commits         ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-🌙 Night                  178 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Tuesday                  67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Wednesday                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Friday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Sunday                   154 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
