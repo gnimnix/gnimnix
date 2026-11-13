@@ -33,15 +33,19 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-191.68%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.29%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.5 kB Used in GitHub's Storage 
+> 📦 45.2 kB Used in GitHub's Storage 
  > 
-> 🏆 67 Contributions in the Year 2026
+> 🏆 72 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,21 +56,21 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-🌆 Daytime                42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-🌃 Evening                32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-🌙 Night                  85 commits          █████████████░░░░░░░░░░░░   52.47 % 
+🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+🌆 Daytime                45 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+🌙 Night                  85 commits          █████████████░░░░░░░░░░░░   51.52 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Wednesday                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Thursday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Friday                   47 commits          ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-Saturday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Wednesday                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Thursday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   50 commits          ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Saturday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
