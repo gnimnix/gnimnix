@@ -33,19 +33,15 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2014%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2028%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-190.80%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-191.68%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 40.9 kB Used in GitHub's Storage 
+> 📦 44.5 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2026
+> 🏆 67 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -56,21 +52,21 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-🌆 Daytime                32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-🌃 Evening                32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-🌙 Night                  85 commits          ██████████████░░░░░░░░░░░   55.92 % 
+🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌆 Daytime                42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌃 Evening                32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+🌙 Night                  85 commits          █████████████░░░░░░░░░░░░   52.47 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Wednesday                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Friday                   45 commits          ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Saturday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Wednesday                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Thursday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Friday                   47 commits          ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+Saturday                 44 commits          ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
@@ -80,19 +76,39 @@ Sunday                   3 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             ████████████████████████░   94.42 % 
+Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cp                       10 mins             ██████████████████████░░░   89.04 % 
+MA3288-UROPS-Monte-Carlo-0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+PA2                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (5.58%)
+
+✍️ 74 lines written by AI, 9 lines written by hand (89.16% AI-written)
+
+🔤 2,855,266 Input Tokens, 11,655 Output Tokens
+
+💵 $27.79 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+Claude                   37 lines            ████████████░░░░░░░░░░░░░   50.00 % 
+Opus                     37 lines            ████████████░░░░░░░░░░░░░   50.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.16% of written lines came from AI
+📝 Concise Prompter — average 50 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 17.78% of changed lines were hand-edited
 ```
 
 
