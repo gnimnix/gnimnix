@@ -37,7 +37,7 @@ Just a programming enthusiast looking to build great things. Ask me about anythi
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.29%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -80,39 +80,19 @@ Sunday                   3 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 🔥 Editors: 
-VS Code                  11 mins             ████████████████████████░   94.42 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cp                       10 mins             ██████████████████████░░░   89.04 % 
-MA3288-UROPS-Monte-Carlo-0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-PA2                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (5.58%)
-
-✍️ 74 lines written by AI, 9 lines written by hand (89.16% AI-written)
-
-🔤 2,855,266 Input Tokens, 11,655 Output Tokens
-
-💵 $27.79 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Claude                   37 lines            ████████████░░░░░░░░░░░░░   50.00 % 
-Opus                     37 lines            ████████████░░░░░░░░░░░░░   50.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 89.16% of written lines came from AI
-📝 Concise Prompter — average 50 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.78% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
